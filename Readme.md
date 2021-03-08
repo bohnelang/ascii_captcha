@@ -1,4 +1,4 @@
-# ASCII CHAPTA
+# ASCII CAPTCHA
 This is a PHP class that implements a pure HTML based ASCII captcha function. No graphic or image is usesd. 
 
 ![Mode 1](https://github.com/bohnelang/ascii_captcha/blob/master/image1.jpg) 
