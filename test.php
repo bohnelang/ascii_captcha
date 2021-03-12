@@ -18,7 +18,6 @@ echo "<html><body>\n";
 if (! isset($_POST["captcha"]) || empty($_POST["captcha"]) ){
 
         $captcha = new ascii_captcha();
-        $captcha -> setmode(10);
         $captcha -> genrand(4);
         $captcha -> setmode(10);
         $_SESSION["chap"] = $captcha ->getrandstring();
