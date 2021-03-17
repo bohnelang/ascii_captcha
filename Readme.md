@@ -7,7 +7,8 @@ This is a PHP class that implements a pure HTML based ASCII captcha function. No
 
 git clone https://github.com/bohnelang/ascii_captcha.git
 
-
+# Demo 
+Have a look here https://www.umm.uni-heidelberg.de/bibliothek/s1/tech/captcha/test.php
 
 # Usage
 
